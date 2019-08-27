@@ -6,7 +6,7 @@ Blockchain Proof of Concept for Vaahan-namchain
 Vaahan-namchain is a permissioned blockchain solution for Internet of Vehicles based on BigchainDB and Interplanetary File System
 
 # Architecure
-To be updated
+![](/Figures/Architecture.png)
 
 # Acknowledgement
 Dr. Sindhu M <br/>
