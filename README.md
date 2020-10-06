@@ -1,12 +1,18 @@
-# Vahan-namchain ![](https://img.shields.io/badge/Project-Nam-ff69b4.svg) ![](https://img.shields.io/badge/Namchain-WIP-Blue.svg) ![](https://img.shields.io/badge/madeby-Ramaguru-blue.svg)
+# VahaNamChain ![](https://img.shields.io/badge/Project-Nam-ff69b4.svg) ![](https://img.shields.io/badge/Namchain-WIP-Blue.svg) ![](https://img.shields.io/badge/madeby-Ramaguru-blue.svg)
 
-Blockchain Proof of Concept for Vaahan-namchain
+Blockchain Proof of Concept for VahaNamChain.
 
 # Introduction
-Vaahan-namchain is a permissioned blockchain solution for Internet of Vehicles based on BigchainDB and Interplanetary File System
+VahaNamChain is a permissioned blockchain solution for Internet of Vehicles.
+
+# Abstract
+Recent advancements in the Internet of Things and mobile internet helped the development of traditional Vehicular Adhoc-NETwork (VANET) based systems into the Internet of Vehicles (IoV). Vehicles in IoV make decisions based on the information from other vehicles and roadside infrastructure. This information helps them make critical decisions and alert the user about unpredictable situations. Security and privacy concerns in vehicles are increasing, hence it is important to address these issues, thus preventing malicious nodes transmitting falsified information or tampering critical communication data. In this paper, we propose RealTime Blockchain for the Internet of Vehicles for ensuring authentication and maintaining secure communication between the vehicles. The blockchain keeps track of communication information between vehicles to provide accountability. This paper also introduces smart contracts based vehicle services like automatic toll payment, vehicle servicing slot booking and payment, fuel payment, vehicle insurance renewal, etc. The proposed blockchain supports native cryptocurrency for the payments within the network.
 
 # Architecure
 ![](/Figures/Architecture.png)
+
+# Publication
+[Blockchain for the Internet of Vehicles](https://link.springer.com/chapter/10.1007%2F978-981-13-9939-8_37)
 
 # Acknowledgement
 Dr. Sindhu M <br/>
