@@ -26,9 +26,14 @@ Dr. Venkataramana Sarama <br/>
 
 [MIT](https://github.com/ramagururadhakrishnan/NamChain/blob/master/MIT)
 
-
-
-
-
-
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNamChain-Open-Initiative-Research-Lab%2FVahaNamChain-PoC.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNamChain-Open-Initiative-Research-Lab%2FVahaNamChain-PoC?ref=badge_large)
+
+# SDG 
+
+<p align="center">
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G7.png" width="200"/>  
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G9.png" width="200"/>    
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G11.png" width="200"/> 
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G12.png" width="200"/> 
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G13.png" width="200"/> 
+</p>   
